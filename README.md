@@ -1,4 +1,4 @@
-# Awesome AI safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome AI safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hari-sikchi/awesome-ai-safety)
 
 ## Table of Contents
 
@@ -484,7 +484,7 @@
 
 -----
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/hari-sikchi/awesome-ai-safety/pulls). 
 
 -----
 ## License
