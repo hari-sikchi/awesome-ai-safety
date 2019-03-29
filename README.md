@@ -39,7 +39,6 @@
 19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018) -->
 
 ### Papers
-*You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
 
 1.  [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871)
 2.  [AGI safety literature review](https://arxiv.org/abs/1805.01109)
