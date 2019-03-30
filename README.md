@@ -225,6 +225,7 @@
 4. [https://intelligence.org/research/#publications](https://intelligence.org/research/#publications)
 5. [https://ai-alignment.com/?gi=7c7707e4c512](https://ai-alignment.com/?gi=7c7707e4c512)
 6. [https://vkrakovna.wordpress.com/](https://vkrakovna.wordpress.com/)
+7. [https://forum.effectivealtruism.org/](https://forum.effectivealtruism.org/)
 <!-- 1.  [deeplearning.net](http://deeplearning.net/)
 2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
 3.  [nlp.stanford.edu](http://nlp.stanford.edu/)
