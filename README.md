@@ -114,7 +114,7 @@
 
 
 
-## Researchers
+### Researchers
 <!-- 
 1. [Aaron Courville](http://aaroncourville.wordpress.com)
 2. [Abdel-rahman Mohamed](http://www.cs.toronto.edu/~asamir/)
@@ -217,8 +217,14 @@
 99. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
  -->
 
-### WebSites
+### Websites
 
+1. [https://80000hours.org/articles/ai-safety-syllabus/](https://80000hours.org/articles/ai-safety-syllabus/)
+2. [https://humancompatible.ai/bibliography](https://humancompatible.ai/bibliography)
+3. [http://aisafety.stanford.edu/](http://aisafety.stanford.edu/)
+4. [https://intelligence.org/research/#publications](https://intelligence.org/research/#publications)
+5. [https://ai-alignment.com/?gi=7c7707e4c512](https://ai-alignment.com/?gi=7c7707e4c512)
+6. [https://vkrakovna.wordpress.com/](https://vkrakovna.wordpress.com/)
 <!-- 1.  [deeplearning.net](http://deeplearning.net/)
 2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
 3.  [nlp.stanford.edu](http://nlp.stanford.edu/)
