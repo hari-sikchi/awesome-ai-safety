@@ -1,4 +1,4 @@
-# Awesome AI safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hari-sikchi/awesome-ai-safety)
+# Awesome AI Safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hari-sikchi/awesome-ai-safety)
 
 ## Table of Contents
 
@@ -17,14 +17,17 @@
 
 
 ### Videos and Lectures
-<!-- 
-1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
-2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
-3.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton
-4.  [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun
-5.  [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua bengio
-6.  [Principles of Hierarchical Temporal Memory](https://www.youtube.com/watch?v=6ufPpZDmPKA) by Jeff Hawkins
-7.  [Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates
+
+
+ 
+1.  [Concrete problems in AI safety](https://www.youtube.com/watch?v=lqJUIqZNzP8&list=PLqL14ZxTTA4fEp5ltiNinNHdkPuLK4778) By Robert Miles
+2.  [Online course on AI safety](https://app.grasple.com/#/levelmap/141) 
+3.  [Safe Reinforcement Learning](https://www.youtube.com/watch?v=saHMbn84V_s&t=707s) By Philip Thomas
+4.  [Safe Reinforcement Learning](https://www.youtube.com/watch?v=RNieq2RIncM) by Mohammad Ghavamzadeh
+5.  [Safe RL robotics](https://www.youtube.com/watch?v=L3G1gJDWYWs&t=934s) by Felix Berkenkamp
+6.  [Safe Artificial Intelligence](https://www.youtube.com/watch?v=ujB31lTdja8) by Victoria Krakovna
+
+<!--7.  [Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates
 8.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates 
 9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates 
 10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun
@@ -36,8 +39,8 @@
 16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford. 
 17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
 18. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
-19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018) -->
-
+19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018) 
+-->
 ### Papers
 
 1.  [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871)
@@ -445,10 +448,11 @@
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions -->
 
-### Miscellaneous
-<!-- 
-1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
-2.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
+### Blogs
+
+1.  [RAISE blog](https://www.lesswrong.com/users/raise)
+2.  [Towards safe reinforcement learning](https://medium.com/@harshitsikchi/towards-safe-reinforcement-learning-88b7caa5702e)
+<!--
 3.  [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 4.  [Word2Vec](https://code.google.com/p/word2vec/)
 5.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
@@ -479,8 +483,8 @@
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 32. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 33. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
-34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data -->
-
+34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data 
+-->
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/hari-sikchi/awesome-ai-safety/pulls). 
