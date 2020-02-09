@@ -72,6 +72,16 @@
 28. [ Agent-Agnostic Human-in-the-Loop Reinforcement Learning](https://arxiv.org/abs/1701.04079)
 29. [ Avoiding Wireheading with Value Reinforcement Learning](https://arxiv.org/abs/1605.03143)
 30. [ Reinforcement learning with a corrupted reward channel](https://arxiv.org/abs/1705.08417)
+
+#### Safe Exploration
+1. [Safe Exploration in Finite Markov Decision Processes with Gaussian Processes](https://arxiv.org/abs/1606.04753)
+2. [Safe Exploration for Interactive Machine Learning](https://arxiv.org/abs/1910.13726)
+3. [Stagewise Safe Bayesian Optimization with Gaussian Processes](https://arxiv.org/abs/1806.07555)
+4. [Safe Exploration in Continuous Action Spaces](https://arxiv.org/abs/1801.08757)
+5. [A lyapunov based approach to safe Reinforcement Learning](https://arxiv.org/abs/1805.07708)
+6. [Lyapunov based safe policy optimization for continuous control](https://openreview.net/forum?id=SJgUYBVLsN)
+7. [IPO: Interior-point Policy Optimization under Constraints](https://arxiv.org/abs/1910.09615)
+8. [CPO: Constrained policy optimization](https://arxiv.org/abs/1705.10528)
 <!-- 31. [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
 32. [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v1.pdf)
 33. [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
